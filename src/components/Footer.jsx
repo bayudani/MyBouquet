@@ -152,7 +152,7 @@ function Footer() {
               Kontak
             </h3>
             <ul className="space-y-2 text-sm text-slate-500">
-              <li>hello@bouquetstudio.com</li>
+              <li>byvictech@gmail.com</li>
               <li>+62 812-3456-7890</li>
               <li>Pekanbaru, Indonesia</li>
               <li className="flex items-center gap-1">Sen-Sab, 8AM-6PM</li>
@@ -162,7 +162,7 @@ function Footer() {
 
         <div className="mt-12 border-t border-pink-100 pt-8 text-center">
           <p className="flex items-center justify-center gap-1 text-sm text-slate-400">
-            Dibuat dengan <Heart className="h-3.5 w-3.5 text-pink-300" /><a href="https://byvictech.site">byvictech</a>
+            Dibuat dengan <Heart className="h-3.5 w-3.5 text-pink-300"  /> oleh<a href="https://byvictech.site">byvictech</a>
           </p>
         </div>
       </div>
