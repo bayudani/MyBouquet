@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Mawar Merah",
+    "category": "Bunga",
+    "stock": 120,
+    "unit": "tangkai",
+    "minStock": 30,
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "name": "Mawar Putih",
+    "category": "Bunga",
+    "stock": 85,
+    "unit": "tangkai",
+    "minStock": 25,
+    "price": 12000
+  },
+  {
+    "id": 3,
+    "name": "Mawar Pink",
+    "category": "Bunga",
+    "stock": 60,
+    "unit": "tangkai",
+    "minStock": 20,
+    "price": 13000
+  },
+  {
+    "id": 4,
+    "name": "Bunga Matahari",
+    "category": "Bunga",
+    "stock": 45,
+    "unit": "tangkai",
+    "minStock": 15,
+    "price": 10000
+  },
+  {
+    "id": 5,
+    "name": "Baby Breath",
+    "category": "Pengisi",
+    "stock": 200,
+    "unit": "ikat",
+    "minStock": 50,
+    "price": 8000
+  },
+  {
+    "id": 6,
+    "name": "Tulip Putih",
+    "category": "Bunga",
+    "stock": 8,
+    "unit": "tangkai",
+    "minStock": 20,
+    "price": 18000
+  },
+  {
+    "id": 7,
+    "name": "Eucalyptus",
+    "category": "Dedaunan",
+    "stock": 40,
+    "unit": "ikat",
+    "minStock": 15,
+    "price": 12000
+  },
+  {
+    "id": 8,
+    "name": "Hydrangea",
+    "category": "Bunga",
+    "stock": 25,
+    "unit": "tangkai",
+    "minStock": 10,
+    "price": 25000
+  },
+  {
+    "id": 9,
+    "name": "Anggrek",
+    "category": "Bunga",
+    "stock": 30,
+    "unit": "tangkai",
+    "minStock": 10,
+    "price": 35000
+  },
+  {
+    "id": 10,
+    "name": "Calla Lily",
+    "category": "Bunga",
+    "stock": 20,
+    "unit": "tangkai",
+    "minStock": 10,
+    "price": 22000
+  },
+  {
+    "id": 11,
+    "name": "Anyelir",
+    "category": "Bunga",
+    "stock": 100,
+    "unit": "tangkai",
+    "minStock": 30,
+    "price": 5000
+  },
+  {
+    "id": 12,
+    "name": "Kertas Bouquet (Kraft)",
+    "category": "Pembungkus",
+    "stock": 50,
+    "unit": "gulung",
+    "minStock": 10,
+    "price": 15000
+  },
+  {
+    "id": 13,
+    "name": "Kertas Bouquet (Foil)",
+    "category": "Pembungkus",
+    "stock": 35,
+    "unit": "gulung",
+    "minStock": 10,
+    "price": 25000
+  },
+  {
+    "id": 14,
+    "name": "Pita Satin",
+    "category": "Pembungkus",
+    "stock": 80,
+    "unit": "meter",
+    "minStock": 20,
+    "price": 5000
+  },
+  {
+    "id": 15,
+    "name": "Pita Beludru",
+    "category": "Pembungkus",
+    "stock": 25,
+    "unit": "meter",
+    "minStock": 10,
+    "price": 12000
+  },
+  {
+    "id": 16,
+    "name": "Vas Keramik",
+    "category": "Wadah",
+    "stock": 15,
+    "unit": "buah",
+    "minStock": 5,
+    "price": 45000
+  },
+  {
+    "id": 17,
+    "name": "Vas Kaca",
+    "category": "Wadah",
+    "stock": 22,
+    "unit": "buah",
+    "minStock": 8,
+    "price": 35000
+  },
+  {
+    "id": 18,
+    "name": "Floral Foam",
+    "category": "Perlengkapan",
+    "stock": 40,
+    "unit": "blok",
+    "minStock": 15,
+    "price": 8000
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CR-001",
+    "name": "Amanda Lee",
+    "occasion": "Pernikahan",
+    "budget": 1500000,
+    "theme": "Taman Rustic",
+    "notes": "Saya ingin campuran wildflower dan mawar dengan warna terracotta hangat. Harus siap sebelum 10 Juni.",
+    "date": "2026-05-18",
+    "status": "pending"
+  },
+  {
+    "id": "CR-002",
+    "name": "Thomas White",
+    "occasion": "Acara Kantor",
+    "budget": 3000000,
+    "theme": "Minimalis Modern",
+    "notes": "Butuh 10 centerpiece untuk lobi kantor. Prefer anggrek putih dan dedaunan hijau. Vas keramik modern.",
+    "date": "2026-05-17",
+    "status": "reviewed"
+  },
+  {
+    "id": "CR-003",
+    "name": "Diana Prince",
+    "occasion": "Hari Ibu",
+    "budget": 400000,
+    "theme": "Segar Taman",
+    "notes": "Ibu saya suka warna pastel. Tolong sertakan mawar pink dan lavender. Ukuran kecil-sedang.",
+    "date": "2026-05-16",
+    "status": "completed"
+  },
+  {
+    "id": "CR-004",
+    "name": "Kevin Hartono",
+    "occasion": "Baby Shower",
+    "budget": 600000,
+    "theme": "Pastel Paradise",
+    "notes": "Tema bayi perempuan - pink dan putih lembut. Butuh 1 rangkaian besar dan 6 kecil untuk meja.",
+    "date": "2026-05-19",
+    "status": "pending"
+  },
+  {
+    "id": "CR-005",
+    "name": "Sofia Ramirez",
+    "occasion": "Wisuda",
+    "budget": 350000,
+    "theme": "Bright & Bold",
+    "notes": "Warna kampus biru dan emas. Saya ingin bunga matahari dan delphinium biru.",
+    "date": "2026-05-15",
+    "status": "reviewed"
+  }
+]

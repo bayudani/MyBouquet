@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ORD-001",
+    "customer": "Sarah Johnson",
+    "bouquet": "Bouquet Wisuda",
+    "total": 350000,
+    "status": "selesai",
+    "date": "2026-05-15",
+    "items": 1,
+    "phone": "0812-3456-7890",
+    "address": "Jl. Merdeka No. 123, Pekanbaru"
+  },
+  {
+    "id": "ORD-002",
+    "customer": "Michael Chen",
+    "bouquet": "Bouquet Anniversary",
+    "total": 450000,
+    "status": "diproses",
+    "date": "2026-05-18",
+    "items": 1,
+    "phone": "0813-4567-8901",
+    "address": "Jl. Sudirman No. 456, Pekanbaru"
+  },
+  {
+    "id": "ORD-003",
+    "customer": "Emily Davis",
+    "bouquet": "Bouquet Ulang Tahun",
+    "total": 275000,
+    "status": "menunggu",
+    "date": "2026-05-19",
+    "items": 2,
+    "phone": "0814-5678-9012",
+    "address": "Jl. Gatot Subroto No. 789, Pekanbaru"
+  },
+  {
+    "id": "ORD-004",
+    "customer": "David Wilson",
+    "bouquet": "Love Blossom",
+    "total": 320000,
+    "status": "siap-diambil",
+    "date": "2026-05-17",
+    "items": 1,
+    "phone": "0815-6789-0123",
+    "address": "Jl. Thamrin No. 321, Pekanbaru"
+  },
+  {
+    "id": "ORD-005",
+    "customer": "Lisa Brown",
+    "bouquet": "Sunshine Delight",
+    "total": 250000,
+    "status": "selesai",
+    "date": "2026-05-14",
+    "items": 1,
+    "phone": "0816-7890-1234",
+    "address": "Jl. Kuningan No. 654, Pekanbaru"
+  },
+  {
+    "id": "ORD-006",
+    "customer": "James Taylor",
+    "bouquet": "Elegant White",
+    "total": 380000,
+    "status": "diproses",
+    "date": "2026-05-19",
+    "items": 1,
+    "phone": "0817-8901-2345",
+    "address": "Jl. Rasuna Said No. 987, Pekanbaru"
+  },
+  {
+    "id": "ORD-007",
+    "customer": "Anna Martinez",
+    "bouquet": "Bouquet Terima Kasih",
+    "total": 200000,
+    "status": "menunggu",
+    "date": "2026-05-20",
+    "items": 3,
+    "phone": "0818-9012-3456",
+    "address": "Jl. Asia Afrika No. 147, Pekanbaru"
+  },
+  {
+    "id": "ORD-008",
+    "customer": "Robert Kim",
+    "bouquet": "Get Well Soon",
+    "total": 230000,
+    "status": "selesai",
+    "date": "2026-05-13",
+    "items": 1,
+    "phone": "0819-0123-4567",
+    "address": "Jl. Panglima Polim No. 258, Pekanbaru"
+  }
+]

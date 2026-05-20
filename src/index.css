@@ -1,0 +1,143 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/geist";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+    --font-heading: var(--font-sans);
+    --font-sans: 'Geist Variable', sans-serif;
+    --color-sidebar-ring: var(--sidebar-ring);
+    --color-sidebar-border: var(--sidebar-border);
+    --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+    --color-sidebar-accent: var(--sidebar-accent);
+    --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+    --color-sidebar-primary: var(--sidebar-primary);
+    --color-sidebar-foreground: var(--sidebar-foreground);
+    --color-sidebar: var(--sidebar);
+    --color-chart-5: var(--chart-5);
+    --color-chart-4: var(--chart-4);
+    --color-chart-3: var(--chart-3);
+    --color-chart-2: var(--chart-2);
+    --color-chart-1: var(--chart-1);
+    --color-ring: var(--ring);
+    --color-input: var(--input);
+    --color-border: var(--border);
+    --color-destructive: var(--destructive);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-accent: var(--accent);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-muted: var(--muted);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-secondary: var(--secondary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-primary: var(--primary);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-popover: var(--popover);
+    --color-card-foreground: var(--card-foreground);
+    --color-card: var(--card);
+    --color-foreground: var(--foreground);
+    --color-background: var(--background);
+    --radius-sm: 0.5rem;
+    --radius-md: 0.625rem;
+    --radius-lg: 0.75rem;
+    --radius-xl: 0.75rem;
+    --radius-2xl: 1rem;
+    --radius-3xl: 1.25rem;
+    --radius-4xl: 1.5rem;
+    --color-pink-light: #FCE7F3;
+    --color-pink-soft: #FFF9FC;
+    --color-purple-light: #E9D5FF;
+}
+
+:root {
+    --background: #FFF9FC;
+    --foreground: #374151;
+    --card: #FFFFFF;
+    --card-foreground: #374151;
+    --popover: #FFFFFF;
+    --popover-foreground: #374151;
+    --primary: #F9A8D4;
+    --primary-foreground: #FFFFFF;
+    --secondary: #60A5FA;
+    --secondary-foreground: #FFFFFF;
+    --muted: #FCE7F3;
+    --muted-foreground: #6B7280;
+    --accent: #FCE7F3;
+    --accent-foreground: #374151;
+    --destructive: #EF4444;
+    --border: #FCE7F3;
+    --input: #FCE7F3;
+    --ring: #F9A8D4;
+    --chart-1: #F9A8D4;
+    --chart-2: #60A5FA;
+    --chart-3: #22C55E;
+    --chart-4: #F59E0B;
+    --chart-5: #EF4444;
+    --sidebar: #FFFFFF;
+    --sidebar-foreground: #374151;
+    --sidebar-primary: #F9A8D4;
+    --sidebar-primary-foreground: #FFFFFF;
+    --sidebar-accent: #FFF9FC;
+    --sidebar-accent-foreground: #374151;
+    --sidebar-border: #FCE7F3;
+    --sidebar-ring: #F9A8D4;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans scroll-smooth;
+  }
+}
+
+@layer utilities {
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-md;
+  }
+  .btn-scale {
+    @apply transition-all duration-200 hover:scale-105 active:scale-95;
+  }
+  .btn-pink {
+    @apply rounded-xl bg-gradient-to-r from-pink-300 to-pink-400 text-white shadow-sm transition-all duration-200 hover:scale-105 hover:shadow-md active:scale-95;
+  }
+  .btn-pink-outline {
+    @apply rounded-xl border-2 border-pink-300 bg-white text-pink-400 shadow-sm transition-all duration-200 hover:scale-105 hover:bg-pink-300/10 active:scale-95;
+  }
+  .card-instagram {
+    @apply overflow-hidden rounded-3xl bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg;
+  }
+  .admin-card {
+    @apply rounded-2xl border border-slate-200 bg-white shadow-sm;
+  }
+  .admin-table {
+    @apply w-full;
+  }
+  .admin-table th {
+    @apply bg-slate-100 px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-slate-500;
+  }
+  .admin-table td {
+    @apply px-4 py-3 text-sm text-slate-700;
+  }
+  .admin-table tr {
+    @apply border-b border-slate-100 transition-colors hover:bg-slate-50;
+  }
+  .admin-table tr:nth-child(even) {
+    @apply bg-slate-50/50;
+  }
+  .admin-table tr:nth-child(even):hover {
+    @apply bg-slate-100/50;
+  }
+  .btn-blue {
+    @apply rounded-lg bg-blue-500 px-4 py-2 text-sm font-medium text-white shadow-sm transition-all duration-200 hover:bg-blue-600 active:scale-95;
+  }
+  .btn-blue-outline {
+    @apply rounded-lg border border-blue-200 bg-white px-4 py-2 text-sm font-medium text-blue-600 shadow-sm transition-all duration-200 hover:bg-blue-50 active:scale-95;
+  }
+}

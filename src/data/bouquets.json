@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "name": "Bouquet Wisuda Medium",
+    "category": "Wisuda",
+    "price": 55000,
+    "description": "Bouquet bunga segar ukuran medium dengan kombinasi mawar, baby breath, dan eucalyptus. Dibungkus kertas kraft coklat dengan pita hitam emas. Cocok untuk hadiah wisuda.",
+    "image": "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=600&q=80",
+      "https://images.unsplash.com/photo-1624797432677-6f803a98ac2b?w=600&q=80"
+    ],
+    "flowers": ["Mawar Merah", "Baby Breath", "Eucalyptus"],
+    "available": true,
+    "rating": 4.7,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 2,
+    "name": "Bouquet Wisuda XL",
+    "category": "Wisuda",
+    "price": 125000,
+    "description": "Bouquet besar untuk wisuda dengan campuran bunga matahari, mawar putih, dan baby breath. Wrapping premium dengan pita emas. Pasti bikin momen wisuda makin spesial.",
+    "image": "https://images.unsplash.com/photo-1591886960571-74d43a9d4166?w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1591886960571-74d43a9d4166?w=600&q=80",
+      "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=600&q=80"
+    ],
+    "flowers": ["Bunga Matahari", "Mawar Putih", "Baby Breath", "Eucalyptus"],
+    "available": true,
+    "rating": 4.9,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 3,
+    "name": "Bouquet Wisuda Mini",
+    "category": "Wisuda",
+    "price": 25000,
+    "description": "Bouquet mungil bunga segar dengan mawar pink dan baby breath. Dibungkus kertas kraft. Cocok untuk teman atau saudara yang wisuda.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt23KZqoUMckHDP3f2VlMu10kByYetrrEwYw&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt23KZqoUMckHDP3f2VlMu10kByYetrrEwYw&s"
+    ],
+    "flowers": ["Mawar Pink", "Baby Breath"],
+    "available": true,
+    "rating": 4.5,
+    "stockStatus": "hampir-habis"
+  },
+  {
+    "id": 4,
+    "name": "Bouquet Snack Special",
+    "category": "Snack Bouquet",
+    "price": 75000,
+    "description": "Bouquet snack berisi coklat, permen, dan camilan favorit dalam rangkaian cantik. Cocok untuk hadiah ulang tahun atau kejutan buat pacar.",
+    "image": "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-mine.us.once-36258-46505_500x500.jpeg",
+    "images": [
+      "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-mine.us.once-36258-46505_500x500.jpeg",
+      "https://www.buderimfloralart.com.au/cdn/shop/articles/Screenshot_2024-08-16_at_6.28.29_PM.png?v=1723804524&width=1100"
+    ],
+    "flowers": ["Coklat", "Permen", "Camilan", "Pita Satin"],
+    "available": true,
+    "rating": 4.8,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 5,
+    "name": "Bouquet Snack Jumbo",
+    "category": "Snack Bouquet",
+    "price": 150000,
+    "description": "Bouquet snack jumbo dengan isian snack lengkap, coklat impor, dan minuman kecil. Dikemas dalam keranjang cantik. Hadiah yang pastinya disuka!",
+    "image": "https://www.buderimfloralart.com.au/cdn/shop/articles/Screenshot_2024-08-16_at_6.28.29_PM.png?v=1723804524&width=1100",
+    "images": [
+      "https://www.buderimfloralart.com.au/cdn/shop/articles/Screenshot_2024-08-16_at_6.28.29_PM.png?v=1723804524&width=1100",
+      "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-mine.us.once-36258-46505_500x500.jpeg"
+    ],
+    "flowers": ["Coklat Import", "Snack", "Permen", "Minuman"],
+    "available": true,
+    "rating": 4.9,
+    "stockStatus": "hampir-habis"
+  },
+  {
+    "id": 6,
+    "name": "Bouquet Snack Mini",
+    "category": "Snack Bouquet",
+    "price": 35000,
+    "description": "Bouquet snack ukuran kecil dengan isian coklat dan permen favorit. Bungkus cellophane dengan pita lucu. Cocok untuk gift teman.",
+    "image": "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-mine.us.once-36258-46505_500x500.jpeg",
+    "images": [
+      "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-mine.us.once-36258-46505_500x500.jpeg"
+    ],
+    "flowers": ["Coklat", "Permen"],
+    "available": true,
+    "rating": 4.4,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 7,
+    "name": "Bouquet Boneka Wisuda",
+    "category": "Doll Bouquet",
+    "price": 85000,
+    "description": "Bouquet boneka beruang kecil dengan rangkaian bunga artificial dan snack. Dikemas dengan wrapping bening dan pita. Cocok untuk hadiah wisuda atau ulang tahun.",
+    "image": "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-bloom.com.my-33209-40071_500x500.jpg",
+    "images": [
+      "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-bloom.com.my-33209-40071_500x500.jpg",
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg"
+    ],
+    "flowers": ["Boneka Beruang", "Bunga Artificial", "Pita"],
+    "available": true,
+    "rating": 4.6,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 8,
+    "name": "Bouquet Boneka Medium",
+    "category": "Doll Bouquet",
+    "price": 110000,
+    "description": "Rangkaian boneka besar dengan hiasan bunga artificial dan snack. Dikemas dalam kertas kado eksklusif. Hadiah yang unik dan berkesan.",
+    "image": "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-bloom.com.my-33209-40071_500x500.jpg",
+    "images": [
+      "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-bloom.com.my-33209-40071_500x500.jpg"
+    ],
+    "flowers": ["Boneka Besar", "Bunga Artificial", "Snack"],
+    "available": true,
+    "rating": 4.7,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 9,
+    "name": "Bouquet Boneka Couple",
+    "category": "Doll Bouquet",
+    "price": 140000,
+    "description": "Bouquet berisi dua boneka beruang couple dengan rangkaian bunga artificial pink dan putih. Lengkap dengan pita dan kartu ucapan. Cocok untuk hadiah anniversary.",
+    "image": "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-bloom.com.my-33209-40071_500x500.jpg",
+    "images": [
+      "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-bloom.com.my-33209-40071_500x500.jpg",
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg"
+    ],
+    "flowers": [
+      "Boneka Couple",
+      "Bunga Artificial",
+      "Pita Satin",
+      "Kartu Ucapan"
+    ],
+    "available": true,
+    "rating": 4.8,
+    "stockStatus": "hampir-habis"
+  },
+  {
+    "id": 10,
+    "name": "Bouquet Artificial Pink",
+    "category": "Artificial Flower",
+    "price": 65000,
+    "description": "Bouquet bunga artificial warna pink dengan kombinasi mawar, tulip, dan baby breath. Tidak perlu disiram, tahan lama. Cocok untuk hiasan atau hadiah.",
+    "image": "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg",
+    "images": [
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg",
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg"
+    ],
+    "flowers": [
+      "Mawar Artificial",
+      "Tulip Artificial",
+      "Baby Breath Artificial"
+    ],
+    "available": true,
+    "rating": 4.5,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 11,
+    "name": "Bouquet Artificial Biru",
+    "category": "Artificial Flower",
+    "price": 70000,
+    "description": "Bouquet bunga artificial warna biru navy dipadukan dengan putih. Wrapping kertas linen premium. Cocok untuk hadiah laki-laki atau tema biru.",
+    "image": "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg",
+    "images": [
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg",
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg"
+    ],
+    "flowers": [
+      "Mawar Biru Artificial",
+      "Baby Breath Putih",
+      "Lavender Artificial"
+    ],
+    "available": true,
+    "rating": 4.6,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 12,
+    "name": "Bouquet Artificial Bouquet Besar",
+    "category": "Artificial Flower",
+    "price": 130000,
+    "description": "Bouquet bunga artificial ukuran besar dengan variasi warna-warni. Cocok untuk dekorasi rumah atau hadiah istimewa. Awet dan tidak layu.",
+    "image": "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg",
+    "images": [
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg"
+    ],
+    "flowers": ["Mawar Warna-warni", "Tulip", "Baby Breath"],
+    "available": true,
+    "rating": 4.7,
+    "stockStatus": "habis"
+  },
+  {
+    "id": 13,
+    "name": "Bouquet Anniversary Soft Pink",
+    "category": "Anniversary",
+    "price": 85000,
+    "description": "Bouquet bunga segar dengan dominasi mawar pink lembut, baby breath putih, dan eucalyptus. Dikemas dengan wrapping kertas glossy dan pita satin. Romantis banget!",
+    "image": "https://images.pexels.com/photos/1488310/pexels-photo-1488310.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1488310/pexels-photo-1488310.jpeg",
+      "https://images.unsplash.com/photo-1591886960571-74d43a9d4166?w=600&q=80"
+    ],
+    "flowers": ["Mawar Pink", "Baby Breath", "Eucalyptus"],
+    "available": true,
+    "rating": 4.9,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 14,
+    "name": "Bouquet Anniversary Merah",
+    "category": "Anniversary",
+    "price": 95000,
+    "description": "Bouquet mawar merah segar ukuran medium dengan baby breath. Wrapping kertas hitam dengan pita merah. Simbol cinta yang abadi.",
+    "image": "https://images.pexels.com/photos/1488310/pexels-photo-1488310.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1488310/pexels-photo-1488310.jpeg",
+      "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=600&q=80"
+    ],
+    "flowers": ["Mawar Merah", "Baby Breath", "Ruscus"],
+    "available": true,
+    "rating": 4.8,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 15,
+    "name": "Bouquet Anniversary XL",
+    "category": "Anniversary",
+    "price": 175000,
+    "description": "Bouquet besar spesial anniversary dengan 24 tangkai mawar merah, baby breath, dan eucalyptus. Wrapping mewah double layer. Pasti bikin pasangan terkesan!",
+    "image": "https://images.unsplash.com/photo-1591886960571-74d43a9d4166?w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1591886960571-74d43a9d4166?w=600&q=80",
+      "https://images.pexels.com/photos/1488310/pexels-photo-1488310.jpeg"
+    ],
+    "flowers": ["24 Mawar Merah", "Baby Breath", "Eucalyptus"],
+    "available": true,
+    "rating": 5.0,
+    "stockStatus": "hampir-habis"
+  },
+  {
+    "id": 16,
+    "name": "Bouquet Ulang Tahun Medium",
+    "category": "Ulang Tahun",
+    "price": 60000,
+    "description": "Bouquet bunga segar campuran mawar kuning, putih, dan baby breath. Cocok untuk hadiah ulang tahun. Dibungkus kertas kraft dengan pita lucu.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt23KZqoUMckHDP3f2VlMu10kByYetrrEwYw&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt23KZqoUMckHDP3f2VlMu10kByYetrrEwYw&s",
+      "https://images.unsplash.com/photo-1591886960571-74d43a9d4166?w=600&q=80"
+    ],
+    "flowers": ["Mawar Kuning", "Mawar Putih", "Baby Breath"],
+    "available": true,
+    "rating": 4.6,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 17,
+    "name": "Bouquet Cupcake Bouquet",
+    "category": "Ulang Tahun",
+    "price": 95000,
+    "description": "Bouquet cantik berisi 6 cupcake frosting warna-warni yang dirangkai seperti bunga. Dikemas dalam kotak lucu. Cocok untuk kejutan ulang tahun!",
+    "image": "https://images.unsplash.com/photo-1558301211-0d8c8ddee6ec?w=600&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1558301211-0d8c8ddee6ec?w=600&q=80",
+      "https://cdn.thefloristmarket.com/cdn/images/vendoritem/thefloristmarket-mine.us.once-36258-46505_500x500.jpeg"
+    ],
+    "flowers": ["6 Cupcake", "Hiasan Kertas", "Pita"],
+    "available": true,
+    "rating": 4.7,
+    "stockStatus": "habis"
+  },
+  {
+    "id": 18,
+    "name": "Bouquet Bunga Mini",
+    "category": "Ulang Tahun",
+    "price": 20000,
+    "description": "Bouquet kecil bunga segar dengan mawar baby pink dan baby breath. Simple dan manis. Cocok untuk gift dadakan atau hadiah teman.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt23KZqoUMckHDP3f2VlMu10kByYetrrEwYw&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt23KZqoUMckHDP3f2VlMu10kByYetrrEwYw&s"
+    ],
+    "flowers": ["Mawar Baby Pink", "Baby Breath"],
+    "available": true,
+    "rating": 4.3,
+    "stockStatus": "ready"
+  },
+  {
+    "id": 19,
+    "name": "Custom Bouquet",
+    "category": "Custom",
+    "price": 0,
+    "description": "Buat Bouquet sendiri sesuai keinginan! Pilih jenis bunga, snack, boneka, atau artificial. Tentukan warna, ukuran, dan tema. Kami buatkan spesial untuk Anda.",
+    "image": "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg",
+    "images": [
+      "https://antaeusflowers.com.au/wp-content/uploads/2025/06/a1_Classic1-300x300.jpg",
+      "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=600&q=80"
+    ],
+    "flowers": ["Pilihan Anda"],
+    "available": true,
+    "rating": 5.0,
+    "stockStatus": "ready"
+  }
+]
