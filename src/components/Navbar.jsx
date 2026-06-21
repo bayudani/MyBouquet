@@ -77,11 +77,11 @@ function Navbar() {
                 </SheetClose>
               ))}
               <SheetClose asChild>
-                <Link to="/admin">
+                {/* <Link to="/admin">
                   <Button className="btn-pink mt-2 w-full">
                     Admin Panel
                   </Button>
-                </Link>
+                </Link> */}
               </SheetClose>
             </div>
           </SheetContent>
