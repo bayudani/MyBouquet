@@ -41,11 +41,11 @@ function Navbar() {
               {link.label}
             </Link>
           ))}
-          <Link to="/admin" className="ml-2">
+          {/* <Link to="/admin" className="ml-2">
             <Button className="btn-pink h-8 px-4 text-xs">
               Admin
             </Button>
-          </Link>
+          </Link> */}
         </div>
 
         <Sheet open={open} onOpenChange={setOpen}>
